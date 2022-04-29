@@ -1,0 +1,22 @@
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\bin\Debug\Teste.exe.config
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\bin\Debug\Teste.exe
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\bin\Debug\Teste.pdb
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\obj\Debug\Teste.exe
+C:\Users\casa\OneDrive - UNIVALI\Área de Trabalho\Teste\obj\Debug\Teste.pdb
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\bin\Debug\Teste.exe.config
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\bin\Debug\Teste.exe
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\bin\Debug\Teste.pdb
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\obj\Debug\Teste.exe
+C:\Users\isis.santos\OneDrive - SMART CONSULTING\Área de Trabalho\Jv\Teste\obj\Debug\Teste.pdb
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\bin\Debug\Teste.exe.config
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\bin\Debug\Teste.exe
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\bin\Debug\Teste.pdb
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\obj\Debug\Teste.exe
+C:\Users\isis.santos\Downloads\TrabalhoM2\Teste\obj\Debug\Teste.pdb
